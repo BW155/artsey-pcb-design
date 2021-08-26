@@ -86,7 +86,6 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "C:/Users/Adolf/Documents/kb/gerber/"))
   )
 
   (net 0 "")
